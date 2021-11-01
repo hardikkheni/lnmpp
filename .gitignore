@@ -4,6 +4,7 @@
 !/html/index.php
 !/html/demo
 !/html/phpmyadmin
+/html/phpmyadmin/tmp
 
 /mysql/*
 
