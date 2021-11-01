@@ -1,0 +1,12 @@
+.DS_Store
+
+/html/*
+!/html/index.php
+!/html/demo
+!/html/phpmyadmin
+
+/mysql/*
+
+/nginx/sites/*
+!/nginx/sites/default.conf
+!/nginx/sites/demo.localhost.conf
